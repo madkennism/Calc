@@ -13,7 +13,7 @@
     "test": "mocha --timeout 10000 --reporter mocha-multi-reporters --reporter-options configFile=test/config.json"
   },
   "keywords": [
-    "azure",
+    "azure",jkjkjkhjjh	
     "pipelines",
     "devops",
     "vsts",
